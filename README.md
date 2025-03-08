@@ -1,6 +1,6 @@
 # MQAF
 
-Paper：Image Quality Assessment: Exploring Quality-aware via Memory-driven Distortion Patterns Matching
+Paper：Image Quality Assessment: Exploring Quality Awareness via Memory-driven Distortion Patterns Matching
 
 ## Requirements
 
